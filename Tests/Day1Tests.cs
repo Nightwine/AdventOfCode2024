@@ -2,8 +2,7 @@
 
 namespace Tests;
 
-public class Day1Tests
-{
+public class Day1Tests {
     [Test]
     public void Test1() {
         var subject = new Day1();
